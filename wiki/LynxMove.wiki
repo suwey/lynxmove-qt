@@ -1,0 +1,5 @@
+#summary An open-source and cross-platform package for robotic arm control
+
+= More info =
+
+Detailed information about my BCI work is available at http://dign.eu/bci
