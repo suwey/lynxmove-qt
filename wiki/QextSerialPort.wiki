@@ -1,0 +1,5 @@
+#summary Serial port library for Qt2-5
+
+= Website =
+
+More info & download: http://code.google.com/p/qextserialport/
