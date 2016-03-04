@@ -1,0 +1,3 @@
+# Introduction #
+
+A separate MATLAB class offering comparable functionality as LynxMove Qt, for integration in MATLAB / Simulink projects.
